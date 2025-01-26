@@ -1,24 +1,29 @@
 <p align="center">
-<img height="256" src="https://github.com/kzhiquan/Picview-macOS/blob/main/logo.png" />
+<img height="256" src="https://github.com/kzhiquan/Longshot-macOS/blob/main/logo.png" />
 </p>
 
-<h1 align="center">Picview</h1>
+<h1 align="center">Longshot</h1>
 
-<p align="center">Picview is the <b>modern</b> image viewer for macOS.</p>
+<p align="center">Longshot is the <b>modern</b> screenshot for macOS.</p>
 
 <p align=center>
-<a href="https://enpicview.chitaner.com">Website</a> ·
-<a href="https://t.me/+2Im1PTFR4chjYWFl">Telegram Group</a>
+<a href="https://longshot.chitaner.com">Website</a> ·
+<a href="https://t.me/+7PT-VJO0qkU4OGFl">Telegram Group</a>
 </p>
 
 <p align=center>
-Photographers and any user seeking a solution for macOS to visualize images in Windows style.
+Longshot is a powerful and versatile screen capture tool that goes beyond basic screenshots. it offers a wide range of features including: 
 
-Picview is an image viewer for macOS with a nice minimal modern user interface. Picview works great with JPEG, HEIC, PSD, RAW, WEBP, PNG, GIF, and many other formats. Provides basic image processing, including flip and rotate, EXIF, and other information. Supports keyboard shortcuts and trackpad gestures. The most important, Picview like Windows' default picture viewer — Photos, where zoom in and out with the mouse wheel and switch between images with arrow keys and/or with on-screen buttons.
+Scrolling screenshots for capturing entire web pages or documents. 
+Screen recording with audio for creating tutorials or demos. 
+OCR (Optical Character Recognition) for extracting text from images
+Screen measurement tools for precise design work
+Sticky notes and image annotation for easy collaboration
+Lightweight and user-friendly interface
+
+Longshot is designed to enhance productivity for professionals, students, and anyone who needs to capture, edit, and share screen content efficiently. Its comprehensive feature set makes it an all-in-one solution for various screen capture needs.
 </p>
 
 <p align="center">
-<img src="https://github.com/kzhiquan/Picview-macOS/blob/main/preview.jpg" />
+<img src="https://github.com/kzhiquan/Longshot-macOS/blob/main/preview.png" />
 </p>
-
----
